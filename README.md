@@ -23,7 +23,11 @@ Enter a number from 1 to 9 to place X in the corresponding square. The AI plays 
 ## Related projects
 - [Snake](https://github.com/hanisnaff/cpp-snake)
 - [Tiny Dungeon](https://github.com/hanisnaff/cpp-dungeon)
-- [Portfolio](https://github.com/hanisnaff/hanisnaff)
+- [Portfolio](https://hitesh-jogeshwari-portfolio.vercel.app)
 
 ## License
 MIT
+
+## Developer portfolio
+
+[Hitesh Jogeshwari — Portfolio](https://hitesh-jogeshwari-portfolio.vercel.app/)
